@@ -4,7 +4,7 @@
 function App() {
   return (
     <div>
-      <h1>Que a força esteja com você!</h1>
+      <h1 className="text-primary">Que a força esteja com você!</h1>
     </div>
   );
 }
